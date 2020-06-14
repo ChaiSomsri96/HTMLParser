@@ -1,0 +1,215 @@
+<meta charset="utf-8"> 
+<!-- utf-8 works for most cases --> 
+<meta name="viewport" content="width=device-width"> 
+<!-- Forcing initial-scale shouldn"t be necessary --> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+<!-- Use the latest (edge) version of IE rendering engine --> 
+<meta name="x-apple-disable-message-reformatting"> 
+<!-- Disable auto-scale in iOS 10 Mail entirely --> 
+<meta name="format-detection" content="telephone=no,address=no,email=no,date=no,url=no"> 
+<!-- Tell iOS not to automatically link certain text strings. --> 
+<title>
+</title> 
+<!-- The title tag shows in email notifications, like Android 4.4. --> 
+<!-- Web Font / @font-face : BEGIN --> 
+<!-- NOTE: If web fonts are not required, lines 10 - 27 can be safely removed. --> 
+<!-- Desktop Outlook chokes on web font references and defaults to Times New Roman, so we force a safe fallback font. --> 
+<!--[if mso]> <style> * { font-family: sans-serif !important; } </style> <![endif]--> 
+<!-- All other clients get the webfont reference; some will render the font and others will silently fail to the fallbacks. More on that here: http://stylecampaign.com/blog/2015/02/webfont-support-in-email/ --> 
+<!--[if !mso]><!--> 
+<!-- insert web font reference, eg: <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet" type="text/css"> --> 
+<link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet"> 
+<!--<![endif]--> 
+<!-- Web Font / @font-face : END --> 
+<!-- CSS Reset : BEGIN -->
+<!-- What it does: Makes background images in 72ppi Outlook render at correct size. --> 
+<!--[if gte mso 9]> <xml> <o:OfficeDocumentSettings> <o:AllowPNG></o:AllowPNG> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml> <![endif]--> 
+<!-- CSS Reset : END --> 
+<!-- Progressive Enhancements : BEGIN -->
+<!-- Progressive Enhancements : END -->
+<!--The email background color (#222222) is defined in three places:1. body tag: for most email clients2. center tag: for Gmail and Inbox mobile apps and web versions of Gmail, GSuite, Inbox, Yahoo, AOL, Libero, Comcast, freenet, Mail.ru, Orange.fr3. mso conditional: For Windows 10 Mail-->
+<center id="ip89j" style="text-size-adjust: 100%; width: 100%; background-color: #ffffff;"> 
+  <!--[if mso | IE]> <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #ffffff;"> <tr> <td> <![endif]--> 
+  <!-- Set the email width. Defined in two places: 1. max-width for all clients except Desktop Windows Outlook, allowing the email to squish on narrow but never go wider than 680px. 2. MSO tags for Desktop Windows Outlook enforce a 680px width. Note: The Fluid and Responsive templates have a different width (600px). The hybrid grid is more "fragile", and I"ve found that 680px is a good width. Change with caution. --> 
+  <div id="ii38r" class="email-container" style="text-size-adjust: 100%; max-width: 780px; margin: 0 auto;"> 
+    <!--[if mso]> <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0" width="780"> <tr> <td> <![endif]--> 
+    <!-- Email Body : BEGIN --> 
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" id="ikp3u" bgcolor="#fff" style="text-size-adjust: 100%; margin: auto; background-color: #fff; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; border-collapse: collapse; table-layout: fixed; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto;"> 
+      <tbody id="iarh6" style="text-size-adjust: 100%;">
+        <tr id="itxvi" style="text-size-adjust: 100%; box-sizing: border-box;">
+          <td align="center" valign="top" id="i3p46" height="50" style="text-size-adjust: 100%; padding: 0; text-align: center; height: 50px;">
+          </td>
+        </tr> 
+        <tr id="iwyxr" style="text-size-adjust: 100%; box-sizing: border-box;">
+          <td align="center" valign="top" id="il3xe" height="50" style="text-size-adjust: 100%; padding: 0 30px; text-align: center; height: 50px;">
+            <div id="i6ojsr" style="text-size-adjust: 100%;">
+              <p id="i7zof" style="text-size-adjust: 100%;">
+                <span id="ie8il" style="text-size-adjust: 100%; color: #237aba;"><span>Lorem</span><span id="i86rl" style="font-size: 26px;"><span id="ifsph" style="font-family: Times New Roman,Times,serif;"> ipsum dolor sit am</span></span><span>et, consectetur adipiscing elit. Morbi molestie fermentum ultrices. Nam luctus sapien ut est auctor cursus id ac diam. Integer auctor aliquet nibh, quis laoreet ligula lobortis ac. Maecenas pellentesque diam leo, quis dapibus augue aliquet vitae. Nunc auctor, neque a elementum sollicitudin, nisi nisl sodales neque, id sagittis justo dui in quam. Curabitur interdum turpis eget elit dignissim pretium sed sed mi. Donec non tristique quam. Nam vitae felis massa. Phasellus vel luctus orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus vulputate elementum. Aliquam sollicitudin libero sed lorem sagittis feugiat quis id velit.</span></span>
+              </p>
+              <p id="io4z3" style="text-size-adjust: 100%;">
+                <span><span>Proin mollis sed est eu ullamcorper. Vivamus ultricies lorem euismod, volutpat eros sit amet, rutrum felis. Aliquam sit amet elementum mauris, a rutrum odio. Proin id posuere sapien, tincidunt facilisis magna. Aliquam nisi risus, lobortis sed trist</span></span>
+                <em id="iwd8s" style="text-size-adjust: 100%;">ique in, p<span id="img4h" style="color: #388d4f;"><span>orta ac elit. In hac habitasse platea dictumst. Suspendisse ullamcorper laoreet enim, id efficitur eros accumsan in. Curabitur tristique lobortis luctus. In blandit orci et placerat mattis. Pellentesque habitant morbi tristique sen</span></span>ectus et netus et malesuada fames ac turpis egestas. Phasellus </em>
+                <span id="ixx0z"><span>libero sapien, dapibus nec tristique nec, consequat quis sem. Nam ut lacus porttitor, tristique lectus sit amet, volutpat augue. Morbi sit amet quam tellus. Cras quis diam nec lectus</span> <span id="iipzq" style="font-size: 36px;"><span id="inso4" style="background-color: #da3851;">eleifend </span></span><span>bibendum ac vel est. Sed ultrices ac nibh vitae tincidunt.</span></span>
+              </p>
+              <p id="ibtbw" style="text-size-adjust: 100%;">
+                <span><span>Integer ultricies rutrum eros at dignissim. Ut rhoncus massa quis metus cursus, eu aliquet justo congue. Nullam pellentesque mauris qu</span></span>
+                <span id="izopw" style="text-size-adjust: 100%; background-color: #f8cd51;"><span>is consequat pharetra. Sed sit amet laoreet nunc. Proin faucibus hendrerit lacus blandit congue. Ut s</span></span>
+                <span><span>ed velit nisi. Aenean suscipit lacus eget vehicula sodales. Phasellus nec aliquam quam, non tristique purus. Donec vulputate ligula vitae arcu ullamcorper euismod. Ut ullamcorper sem nulla, a facilisis diam commodo eu. Sed eget dictum leo. Quisque molestie, sapien et posuere rutrum, ante ipsum pellentesque erat, eu pellentesque nisi augue a nisi. Nunc ac pellentesque eros. Donec sit amet lectus et augue porta aliquet ut sit amet ex.</span></span>
+              </p>
+              <p id="ibxah" style="text-size-adjust: 100%;">
+                <span><span>Suspendisse nec purus venenatis, dignissim nunc sit amet, interdum orci. Aenean condimentum laoreet quam, ac interdum erat lobortis at. Integer nec leo porta sem laoreet egestas vitae ac quam. Donec molestie nulla ac magna tristique lacinia. Sed non ph</span></span>
+                <span id="ibv4u" style="text-size-adjust: 100%; color: #eaf9fa;"><span id="iqvpi" style="text-size-adjust: 100%; background-color: #b92a45;">aretra turpis. In sit amet ante vestibulum, sodales neque eget, elementum metus. Praesent venenatis commodo sagittis. Ut porta vel augue at viverra. Phasellus dignissim, ex et mollis euismod, quam dui rhoncus nulla, non malesuada neque purus a purus. Proin mollis neque quis quam tincidunt blandit. D</span></span>
+                <span><span>uis egestas lectus vitae velit dictum suscipit. Praesent non turpis massa. Interdum et malesuada fames ac ante ipsum primis in faucibus.</span></span>
+              </p>
+              <p id="itskj" style="text-size-adjust: 100%;">
+                <span><span>Aenean lacus arcu, molestie vitae euismod pellentesque, mattis non nibh. Mauris cursus felis eget euismod tempor. Sed ut posuere lacus, eget malesuada ipsum. Etiam quis augue quis nunc convallis ultricies vel vitae neque. Mauris eget ante ves</span></span>
+                <span id="i3uj9" style="text-size-adjust: 100%; background-color: #d9af41;"><span>tibulum, viverra augue et, pellentesque enim. Sed malesuada placerat velit, varius auctor mi euismod nec. Maecenas feugiat feugiat felis fringilla cursus. Ut non massa erat. Nulla at velit quis ante</span></span> 
+                <span><span>vehicula interdum in id velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque ac lacus aliquam nunc scelerisque vestibulum. Mauris nec nulla et sapien dapibus eleifend at vitae lectus. Suspendisse mauris eros, vestibulum vitae orci eu, dapibus porttitor ligula.</span></span>
+              </p>
+            </div>
+          </td>
+        </tr> 
+        <tr id="i7b55" style="text-size-adjust: 100%; box-sizing: border-box;">
+          <td align="center" valign="top" id="ihd6g" height="50" style="text-size-adjust: 100%; padding: 0 30px; text-align: center; height: 50px;">
+          </td>
+        </tr> 
+        <tr id="ibdbt" style="text-size-adjust: 100%; box-sizing: border-box;">
+          <td align="center" valign="top" id="i565l" height="50" style="text-size-adjust: 100%; padding: 0 30px; text-align: center; height: 50px;">
+          </td>
+        </tr> 
+        <tr id="i30vh" style="text-size-adjust: 100%; box-sizing: border-box;">
+          <td align="center" valign="top" id="idi8h" height="50" style="text-size-adjust: 100%; padding: 0 30px; text-align: center; height: 50px;">
+          </td>
+        </tr> 
+        <tr id="ibde7" style="text-size-adjust: 100%; box-sizing: border-box;">
+          <td align="center" valign="top" id="i9mamr" height="50" style="text-size-adjust: 100%; padding: 0 30px; text-align: center; height: 50px;">
+            <div id="ikqxb3" class="stack-column" style="text-size-adjust: 100%; display: inline-block; margin: 0 -1px; max-width: 440px; min-width: 280px; vertical-align: top;">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" id="iiapmg" style="text-size-adjust: 100%; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; border-collapse: collapse; table-layout: fixed; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto;">
+                <tbody id="i2rib7" style="text-size-adjust: 100%;">
+                  <tr id="i73owf" style="text-size-adjust: 100%;">
+                    <td dir="ltr" id="i3f9xl" align="left" class="center-on-narrow" style="text-size-adjust: 100%; font-family: Arial, Helvetica, sans-serif; padding: 0; text-align: left;">
+                      <p id="i8hx3p" style="text-size-adjust: 100%; color: #1d73b2; margin: 0 auto 10px auto; font-size: 20px; line-height: 24px;">
+                        <span id="i205cb"><s>Encabezado 
+                          </s>de <em>ejemplo</em></span>
+                      </p>
+                      <p id="isqlgd" style="text-size-adjust: 100%; font-family: Arial, Helvetica, sans-serif; margin: 0 auto 10px auto; font-size: 16px; line-height: 24px;">
+                        <span id="id6lts"><span>Este texto es de ej</span><span id="ilx0sf" style="background-color: #028484;"><span>emplo. Haciendo clic puedes editarl</span></span><span>o y darle formato según las necesidades de tu newsletter.</span></span>
+                      </p>
+                      <table role="presentation" cellspacing="0" cellpadding="0" border="0" id="i80yf5" class="center-on-narrow" style="text-size-adjust: 100%; float: left; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; border-collapse: collapse; table-layout: fixed; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto;">
+                        <tbody id="ibdme8" style="text-size-adjust: 100%;">
+                          <tr id="i72t8t" style="text-size-adjust: 100%;">
+                            <td id="ig4r1s" style="text-size-adjust: 100%;">
+                              <p id="iw4vjm" style="text-size-adjust: 100%; text-align: center;">
+                                <a id="il1ig8" style="text-size-adjust: 100%; box-sizing: border-box; max-width: 100%; padding: 12px 32px; border-radius: 1px; border: none; color: #ffffff; display: inline-block; font-weight: normal; margin: 8px 0; text-align: center; vertical-align: middle; white-space: nowrap; background-color: #1973b8; margin-top: 0; margin-bottom: 0; margin-right: 0; border-bottom-width: 0px; border-bottom-style: initial; border-bottom-color: initial; cursor: default; text-decoration-line: none; text-decoration-style: initial; text-decoration-color: initial; font-size: inherit; font-family: inherit; line-height: inherit;">Botón</a>
+                              </p>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div>
+              <p>
+                <span><span>Este texto es de ejemplo. Haciendo clic puedes editarlo y darle formato</span> según <span>las necesidades de tu diseño</span></span>
+              </p>
+            </div>
+            <div id="iwxezf" class="stack-column" style="text-size-adjust: 100%; display: inline-block; margin: 0 -1px; max-width: 220px; min-width: 160px; vertical-align: top; width: 100%;">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" id="iimsqi" style="text-size-adjust: 100%; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; border-collapse: collapse; table-layout: fixed; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto;">
+                <tbody id="ihqq19" style="text-size-adjust: 100%;">
+                  <tr id="iyy53d" style="text-size-adjust: 100%;">
+                    <td dir="ltr" id="ik9sw3" style="text-size-adjust: 100%; padding: 0 10px 10px 10px;">
+                      <a href="" id="iuowdu" style="text-size-adjust: 100%; color: rgb(25, 115, 184); font-weight: bold; border-bottom-width: 0px; border-bottom-style: initial; border-bottom-color: initial; cursor: default; text-decoration-line: none; text-decoration-style: initial; text-decoration-color: initial; font-size: inherit; font-family: inherit; line-height: inherit;"><img src="https://storage.googleapis.com/bbva-employeemailing.appspot.com/img/editor/200x200.png" width="200" height="" border="0" alt="" id="i3l7uf" class="center-on-narrow" style="text-size-adjust: 100%; width: 100%; max-width: 200px; height: auto;"></a>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </td>
+        </tr> 
+        <tr id="izwn9g" style="text-size-adjust: 100%; box-sizing: border-box;">
+          <td align="center" valign="top" id="ip45wa" height="50" style="text-size-adjust: 100%; padding: 0 30px; text-align: center; height: 50px;">
+            <div id="iuxkf9">
+              <p>Este texto es de ejemplo. Haciendo clic puedes editarlo y darle formato 
+                <span id="iforyz" style="color: #237aba;"><span id="i7vwzs" style="font-size: 28px;">según </span></span>las necesidades de tu diseño
+              </p>
+            </div>
+          </td>
+        </tr> 
+        <tr id="iq9pct" style="text-size-adjust: 100%; box-sizing: border-box;">
+          <td align="center" valign="top" id="ix8lhw" height="50" style="text-size-adjust: 100%; padding: 0 30px; text-align: center; height: 50px;">
+          </td>
+        </tr> 
+        <tr id="i83zmm" style="text-size-adjust: 100%; box-sizing: border-box;">
+          <td align="center" valign="top" id="iblfyh" height="50" style="text-size-adjust: 100%; padding: 0 30px; text-align: center; height: 50px;">
+          </td>
+        </tr> 
+        <tr id="i5h7bw" style="text-size-adjust: 100%; box-sizing: border-box;">
+          <td align="center" valign="top" id="irw93d" height="50" style="text-size-adjust: 100%; padding: 0 30px; text-align: center; height: 50px;">
+          </td>
+        </tr> 
+        <tr id="i0d7ow" style="text-size-adjust: 100%; box-sizing: border-box;">
+          <td align="center" valign="top" id="iip5a5" height="50" style="text-size-adjust: 100%; padding: 0 30px; text-align: center; height: 50px;">
+          </td>
+        </tr> 
+        <tr id="i669cd" style="text-size-adjust: 100%; box-sizing: border-box;">
+          <td align="center" valign="top" id="in8r4e" height="50" style="text-size-adjust: 100%; padding: 0 30px; text-align: center; height: 50px;">
+          </td>
+        </tr> 
+        <tr id="i34rhd" style="text-size-adjust: 100%; box-sizing: border-box;">
+          <td align="center" valign="top" id="iswv3j" height="50" style="text-size-adjust: 100%; padding: 0 30px; text-align: center; height: 50px;">
+          </td>
+        </tr> 
+        <tr id="ikjzoe" style="text-size-adjust: 100%; box-sizing: border-box;">
+          <td align="center" valign="top" id="i29h8v" height="50" style="text-size-adjust: 100%; padding: 0 30px; text-align: center; height: 50px;">
+          </td>
+        </tr> 
+        <tr id="iohafn" style="text-size-adjust: 100%; box-sizing: border-box;">
+          <td align="center" valign="top" id="i1d0kg" height="50" style="text-size-adjust: 100%; padding: 0 30px; text-align: center; height: 50px;">
+          </td>
+        </tr> 
+      </tbody>
+    </table> 
+    <!-- Email Body : END --> 
+    <!--[if mso]> </td> </tr> </table> <![endif]--> 
+  </div> 
+  <!--[if mso | IE]> </td> </tr> </table> <![endif]--> 
+</center>
+<style>
+  @media only screen and (max-width: 480px) {
+    .stack-column {
+      display: block !important;
+      width: 100% !important;
+      max-width: 100% !important;
+      direction: ltr !important;
+      margin-bottom: 20px !important;
+    }
+    .center-on-narrow {
+      text-align: center !important;
+      display: block !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+      float: none !important;
+    }
+    table.center-on-narrow {
+      display: inline-block !important;
+    }
+  }
+  @media only screen and (min-device-width: 414px) {
+    u ~ div .email-container {
+      min-width: 414px !important;
+    }
+  }
+  @media only screen and (max-device-width: 413px) and (min-device-width: 375px) {
+    u ~ div .email-container {
+      min-width: 375px !important;
+    }
+  }
+  @media only screen and (max-device-width: 374px) and (min-device-width: 320px) {
+    u ~ div .email-container {
+      min-width: 320px !important;
+    }
+  }
+</style>
