@@ -1,6 +1,6 @@
 <meta charset="utf-8"> 
 <!-- utf-8 works for most cases --> 
-<meta name="viewport" content="width=device-width"> 
+<meta name="viewport" content="width=<span>de</span>vice-width"> 
 <!-- Forcing initial-scale shouldn"t be necessary --> 
 <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 <!-- Use the latest (edge) version of IE rendering engine --> 
@@ -44,12 +44,12 @@
           <td align="center" valign="top" id="il3xe" height="50" style="text-size-adjust: 100%; padding: 0 30px; text-align: center; height: 50px;">
             <div id="i6ojsr" style="text-size-adjust: 100%;">
               <p id="i7zof" style="text-size-adjust: 100%;">
-                <span id="ie8il" style="text-size-adjust: 100%; color: #237aba;"><span>Lorem</span><span id="i86rl" style="font-size: 26px;"><span id="ifsph" style="font-family: Times New Roman,Times,serif;"> ipsum dolor sit am</span></span><span>et, consectetur adipiscing elit. Morbi molestie fermentum ultrices. Nam luctus sapien ut est auctor cursus id ac diam. Integer auctor aliquet nibh, quis laoreet ligula lobortis ac. Maecenas pellentesque diam leo, quis dapibus augue aliquet vitae. Nunc auctor, neque a elementum sollicitudin, nisi nisl sodales neque, id sagittis justo dui in quam. Curabitur interdum turpis eget elit dignissim pretium sed sed mi. Donec non tristique quam. Nam vitae felis massa. Phasellus vel luctus orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus vulputate elementum. Aliquam sollicitudin libero sed lorem sagittis feugiat quis id velit.</span></span>
+                <span id="ie8il" style="text-size-adjust: 100%; color: #237aba;"><span><span>Lorem</span></span><span id="i86rl" style="font-size: 26px;"><span id="ifsph" style="font-family: Times New Roman,Times,serif;"> ipsum dolor sit am</span></span><span><span>et, consectetur adipiscing elit. Morbi molestie fermentum ultrices. Nam luctus sapien ut est auctor cursus id ac diam. Integer auctor aliquet nibh, quis laoreet ligula lobortis ac. Maecenas pellentesque diam leo, quis dapibus augue aliquet vitae. Nunc auctor, neque a elementum sollicitudin, nisi nisl sodales neque, id sagittis justo dui in quam. Curabitur interdum turpis eget elit dignissim pretium sed sed mi. Donec non tristique quam. Nam vitae felis massa. Phasellus vel luctus orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis faucibus vulputate elementum. Aliquam sollicitudin libero sed lorem sagittis feugiat quis id velit.</span></span></span>
               </p>
               <p id="io4z3" style="text-size-adjust: 100%;">
                 <span><span>Proin mollis sed est eu ullamcorper. Vivamus ultricies lorem euismod, volutpat eros sit amet, rutrum felis. Aliquam sit amet elementum mauris, a rutrum odio. Proin id posuere sapien, tincidunt facilisis magna. Aliquam nisi risus, lobortis sed trist</span></span>
                 <em id="iwd8s" style="text-size-adjust: 100%;">ique in, p<span id="img4h" style="color: #388d4f;"><span>orta ac elit. In hac habitasse platea dictumst. Suspendisse ullamcorper laoreet enim, id efficitur eros accumsan in. Curabitur tristique lobortis luctus. In blandit orci et placerat mattis. Pellentesque habitant morbi tristique sen</span></span>ectus et netus et malesuada fames ac turpis egestas. Phasellus </em>
-                <span id="ixx0z"><span>libero sapien, dapibus nec tristique nec, consequat quis sem. Nam ut lacus porttitor, tristique lectus sit amet, volutpat augue. Morbi sit amet quam tellus. Cras quis diam nec lectus</span> <span id="iipzq" style="font-size: 36px;"><span id="inso4" style="background-color: #da3851;">eleifend </span></span><span>bibendum ac vel est. Sed ultrices ac nibh vitae tincidunt.</span></span>
+                <span id="ixx0z"><span><span>libero sapien, dapibus nec tristique nec, consequat quis sem. Nam ut lacus porttitor, tristique lectus sit amet, volutpat augue. Morbi sit amet quam tellus. Cras quis diam nec lectus</span></span> <span id="iipzq" style="font-size: 36px;"><span id="inso4" style="background-color: #da3851;">eleifend </span></span><span><span>bibendum ac vel est. Sed ultrices ac nibh vitae tincidunt.</span></span></span>
               </p>
               <p id="ibtbw" style="text-size-adjust: 100%;">
                 <span><span>Integer ultricies rutrum eros at dignissim. Ut rhoncus massa quis metus cursus, eu aliquet justo congue. Nullam pellentesque mauris qu</span></span>
@@ -93,7 +93,7 @@
                           </s>de <em>ejemplo</em></span>
                       </p>
                       <p id="isqlgd" style="text-size-adjust: 100%; font-family: Arial, Helvetica, sans-serif; margin: 0 auto 10px auto; font-size: 16px; line-height: 24px;">
-                        <span id="id6lts"><span>Este texto es de ej</span><span id="ilx0sf" style="background-color: #028484;"><span>emplo. Haciendo clic puedes editarl</span></span><span>o y darle formato según las necesidades de tu newsletter.</span></span>
+                        <span id="id6lts"><span><span>Este texto es de ej</span></span><span id="ilx0sf" style="background-color: #028484;"><span>emplo. Haciendo clic puedes editarl</span></span><span>o y darle formato <span>según</span> las necesidades de tu newsletter.</span></span>
                       </p>
                       <table role="presentation" cellspacing="0" cellpadding="0" border="0" id="i80yf5" class="center-on-narrow" style="text-size-adjust: 100%; float: left; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; border-collapse: collapse; table-layout: fixed; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto;">
                         <tbody id="ibdme8" style="text-size-adjust: 100%;">
