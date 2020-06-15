@@ -10,10 +10,9 @@ fs.readFile('example.html', 'utf8', function (err,data) {
         if(pTags[i].childNodes.length > 1) {
             for( let j = 0 ; j < pTags[i].childNodes.length ; j ++){
                 let firstChild = pTags[i].childNodes[j];
-                if(firstChild.tagName == undefined && firstChild.nodeValue.trim() != ""){
+                if(firstChild.nodeName == "#text" && firstChild.nodeValue.trim() != ""){
                     let convertString = firstChild.nodeValue.trim();
                     data = data.replace(convertString, "<span>" + convertString + "</span>");
-                    console.log(pTags[i].childNodes.length)
                 }
             }
         }
